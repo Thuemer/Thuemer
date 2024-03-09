@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Tobi</h1>
+<h1 align="center">Hi 👋, I'm Tobi</h1>
 
 ###
 
-<h2 align="left">🎓 HTL Leonding, Austria</h2>
+<h2 align="center">🎓 HTL Leonding, Austria</h2>
 
 ###
 
